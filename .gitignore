@@ -1,0 +1,10 @@
+odoo_pg_pass
+config/odoo.conf
+
+.idea
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+.env
