@@ -1,7 +1,0 @@
-[options]
-;proxy_mode = True
-dbfilter = administrivabyDB
-;list_db = False
-addons_path = /mnt/extra-addons,/mnt/addons
-data_dir = /var/lib/odoo
-admin_passwd = PASSWORD
